@@ -1,7 +1,6 @@
----
-date: YYYY-MM-DD
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
 model: <model-name>
-session: <session-context>
 topic: <topic-title>
 tags: [tag-1, tag-2]
 ---

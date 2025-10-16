@@ -1,7 +1,7 @@
 ---
-date: 2025-10-16
+created: 2025-10-16
+updated: 2025-10-16
 model: GPT-5
-session: Codex
 topic: tinnitus reference tone
 tags: [hearing, music, perception]
 ---

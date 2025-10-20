@@ -1,7 +1,6 @@
 ---
 created: 2025-05-05
 updated: 2025-10-16
-model: GPT-5
 topic: typical AI unit test mistakes
 tags: [testing, ai, quality]
 ---

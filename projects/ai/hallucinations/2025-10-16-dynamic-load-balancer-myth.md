@@ -1,7 +1,6 @@
 ---
 created: 2025-10-16
 updated: 2025-10-17
-model: ChatGPT
 topic: dynamic power load balancer myth
 tags: [hallucination, ai, electrical]
 ---

@@ -1,7 +1,6 @@
 ---
 created: 2025-10-10
 updated: 2025-10-16
-model: GPT-5
 topic: codex auto-verification loop
 tags: [codex, tooling, feedback]
 ---

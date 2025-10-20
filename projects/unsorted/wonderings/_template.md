@@ -1,6 +1,5 @@
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-model: <model-name>
 topic: <topic-title>
 tags: [tag-1, tag-2]
 ---

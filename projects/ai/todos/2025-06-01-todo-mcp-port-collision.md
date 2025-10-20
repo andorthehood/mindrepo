@@ -1,7 +1,6 @@
 ---
 created: 2025-06-01
 updated: 2025-10-16
-model: GPT-5
 topic: mcp server port collisions
 tags: [mcp, multi-agent, tooling]
 ---

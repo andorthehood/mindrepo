@@ -1,7 +1,6 @@
 ---
 created: 2024-03-17
 updated: 2025-10-16
-model: GPT-5
 topic: co-located tests research
 tags: [javascript, typescript, testing]
 ---

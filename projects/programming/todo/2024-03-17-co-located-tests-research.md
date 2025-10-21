@@ -17,10 +17,24 @@ I really like Rust’s in-file `#[cfg(test)]` modules that keep unit tests right
 - Mocking/DI ecosystems assume a distinct test harness and directory, making same-file patterns feel awkward.
 - Guides, tutorials, and OSS examples rarely showcase inline tests, so the convention never shifted.
 
+## Findings
+
+### Vitest In-Source Testing Support
+
+Found that [Vitest supports in-source testing](https://vitest.dev/guide/in-source.html#in-source-testing) similar to Rust's `#[cfg(test)]` modules. Key details:
+
+- Uses `if (import.meta.vitest)` blocks at the end of source files
+- Tests share the same closure as implementations, allowing access to private states
+- Requires `includeSource: ['src/**/*.{js,ts}']` in vitest config
+- Production builds need `define: { 'import.meta.vitest': 'undefined' }` for dead code elimination
+- TypeScript support via `"vitest/importMeta"` in tsconfig types
+- Recommended for unit testing small functions/utilities and prototyping
+- Separate test files still recommended for complex tests like components or E2E
+
 ## TODO tasks
 
 - Identify test runners and bundlers that officially support colocated tests.
 - Document tree-shaking or build-step patterns to exclude inline tests from production bundles.
-- Compare ergonomics with Rust’s `#[cfg(test)]` modules, including pros/cons for large codebases.
+- Compare ergonomics with Rust's `#[cfg(test)]` modules, including pros/cons for large codebases.
 - Collect real-world examples or case studies (framework docs, OSS repos) using this layout.
 - Summarize recommended project structure and naming conventions for colocated tests.

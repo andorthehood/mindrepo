@@ -1,7 +1,7 @@
 ---
 title: README for personal internet image archive
 created: 2024-02-12
-updated: 2025-10-28
+updated: 2025-11-09
 topic: unsorted
 tags: [internet-archive, images, ethics, categorization, technical-notes]
 status: draft
@@ -28,6 +28,12 @@ After learning about the Dead Internet Theory in the early 2020s, I decided to c
 - **2023 - 2024:** This is when AI-generated images started becoming very good. They could still be identified if you looked at the backgrounds or counted fingers, but with enough editing, they could pass as real. I can't say with 100% confidence that there are no AI-generated images in this folder.
 - **2025 - :** By 2025, distinguishing AI-generated images became much harder. Some were nearly indistinguishable from real ones, though getting photorealistic results still required a lot of tweaking. I did my best to filter them out, but at this point, the line between real and synthetic had become very thin.
 
+## Editing vs generative AI
+
+Many images in this archive were edited using analog or digital techniques (cropping, color grading, retouching, collage, scanning, darkroom work, compositing). Editing is not the same as generative AI. Photo and image editing existed long before modern generative AI systems.
+
+Already in 2025, some people mislabel classically edited photos as “AI-generated.” I expect this confusion to increase in the future.
+
 ## Note on ethics and preservation
 
 The original creators of these images did not consent to me storing or archiving their work. In some cases, I downloaded images despite websites actively trying to prevent it. I understand that this raises ethical concerns, but my motivation has always been preservation. Over the years, platforms have purged content, shut down, or pushed users out, causing countless images disappearing forever:
@@ -37,18 +43,24 @@ The original creators of these images did not consent to me storing or archiving
 
 And I believe this will keep happening. As platforms shift their business models and prioritize advertisers, more images will disappear. It's sad that the internet isn't as permanent as we once thought.
 
-## Cultural bias discalimer
+## Cultural bias disclaimer
 
 This archive has a racial and cultural bias towards white people and western culture. This is not intentional, but a result of:
 - The fact that I am from this cultural circle.
-- The websites I collected images from (Flickr, Tumblr, Instagram) were moslty used by white western people at the time.
+- The websites I collected images from (Flickr, Tumblr, Instagram) were mostly used by white western people at the time.
 Because of this, the archive is not fully representative of a broader global internet culture, and certain perspectives or aesthetics may be underrepresented.
+
+Most of the portrait photos depict women. The reasons are:
+- In the time range covered, photography was mainly a male hobby, and male photographers' model preference was mostly women.
+- Male photographers publishing series of self-portraits, or basing most of their work on self-portraits, was extremely rare compared to female photographers.
+
+I did not attempt to counteract these biases. I archived whatever images I encountered and liked.
 
 ## Trigger warning
 
 This archive contains a wide variety of images, some of which might be disturbing, unsettling. This includes:
 - Nudity in various contexts, including artistic, cultural, and documentary depictions.
-- Erotic and explicit content. (I consider most of them artistic, but that's debateble.)
+- Erotic and explicit content.
 - Bodily fluids, including but not limited to blood, sweat, saliva, and other organic substances.
 - Surreal, disturbing, or horror-inspired images.
 - Medical or body horror elements.

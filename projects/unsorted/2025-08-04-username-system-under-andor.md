@@ -1,7 +1,7 @@
 ---
 title: Username system based on "under" to "andor" wordplay
 created: 2025-08-04
-updated: 2025-11-02
+updated: 2025-11-24
 topic: unsorted
 tags: [usernames, branding, wordplay]
 status: draft
@@ -32,7 +32,8 @@ This note defines a repeatable method to generate usernames that play on the sim
 - Goodreads: `andorlineingeverything` → from "underlining everything". On-theme with reading.
 - Facebook: `andorthewrongimpression` → from "under the wrong impression". Clear; long; casual fit.
 - LinkedIn: `andorstaffed` → from "understaffed".
- - X (Twitter): `andorstatement` → from "understatement". Clear; concise; news and commentary fit.
+- X (Twitter): `andorstatement` → from "understatement". Clear; concise; news and commentary fit.
+- Hugging Face: `andorfitting` → from "underfitting". Machine learning and model-sharing fit.
 
 ### Future options with categories
 - `andorreview` (under review): code collaboration, Q&A, blog, newsletter, professional networking.

@@ -8,6 +8,8 @@ summary: Idea for a Janko-layout MIDI controller using keyboard switches and acc
 ---
 
 # Context
+I never understood why the Janko layout is so niche and the standard piano layout is dominant. The standard piano layout feels confusing and inconsistent to me, and I have not been able to learn it. My brain resists learning patterns that do not feel logical. For example, major chords have different shapes in different keys on a standard piano, which I strongly dislike. This is a big reason I was happy when I found the Janko layout.
+
 This is an idea for a compact MIDI controller that uses a Janko keyboard layout, keyboard switches, and an accelerometer to estimate key velocity in a way similar to how GarageBand on iPad uses the tablet accelerometer for velocity.
 
 # Content

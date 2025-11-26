@@ -1,7 +1,7 @@
 ---
 title: Username system based on "under" to "andor" wordplay
 created: 2025-08-04
-updated: 2025-11-24
+updated: 2025-11-26
 topic: unsorted
 tags: [usernames, branding, wordplay]
 status: draft
@@ -25,6 +25,11 @@ This note defines a repeatable method to generate usernames that play on the sim
 - Prefer lowercase and no separators.
 - Check readability, length, and ease of pronunciation.
 - Keep meanings platform-appropriate.
+- Base each username on an expression, collocation, or word that already exists in real usage (for example, idioms like "under the hood" or single words like "understaffed").
+- Use only source phrases or words that already exist as natural "under" expressions (for example, "under the hood", "under review", "understaffed", "underwhelming").
+- Do not create new or unnatural "under X" expressions  that no one actually says (for example, "under the frontend"); if the source expression is not natural, skip it.
+- When you propose a username, also show the original "under" expression it comes from.
+- Prefer usernames whose original expressions match the platform’s context (for example, technical phrases for developer platforms, reading-related phrases for book platforms).
 
 ## Inventory (current handles)
 - Instagram: `andortheinfluence` → from "under the influence". Playful; social fit.
@@ -34,6 +39,7 @@ This note defines a repeatable method to generate usernames that play on the sim
 - LinkedIn: `andorstaffed` → from "understaffed".
 - X (Twitter): `andorstatement` → from "understatement". Clear; concise; news and commentary fit.
 - Hugging Face: `andorfitting` → from "underfitting". Machine learning and model-sharing fit.
+- Google Developers: `andorconstruction` → from "under construction". Fits developer profiles, in-progress projects, and tooling work.
 
 ### Future options with categories
 - `andorreview` (under review): code collaboration, Q&A, blog, newsletter, professional networking.

@@ -1,6 +1,6 @@
 ---
 title: Funny sounding math and computing concepts
-created: 2024-07-23
+created: 2024-04-28
 updated: 2025-11-28
 tags: [catalog, concepts, math, computing]
 status: draft
@@ -11,6 +11,13 @@ summary: A growing list of mathematically or computationally serious ideas that 
 This note collects concepts from mathematics, computer science, and related fields that sound funny, but that describe serious and important ideas.
 
 # Content
+
+## Brazil Nut Effect (Cereal Box Effect)
+- Domain: granular materials, physics, applied mathematics.
+- Setup: consider a mix of particles of different sizes (for example, a jar of mixed nuts) that is shaken or vibrated. The large particles tend to end up near the top, even though gravity pulls everything downward.
+- Rough mechanism: under vibration, smaller particles can fall through gaps and percolate downward, while larger particles are pushed upward by the motion of the surrounding smaller grains. Convection-like flows in the granular material can also transport larger particles toward the surface.
+- Key observation: the effect is counterintuitive because you might expect heavier, larger objects to sink, but in these systems the opposite often happens.
+- Relevance: the Brazil Nut Effect matters in bulk material handling, pharmaceuticals, food processing, and geophysics, where size segregation can change material properties and cause problems or be used on purpose for separation.
 
 ## Busy Beaver Function
 - Domain: computability theory, theoretical computer science.
@@ -31,13 +38,6 @@ This note collects concepts from mathematics, computer science, and related fiel
 - Operation: a move is defined as choosing a position \(k\) and reversing the order of the top \(k\) items in the stack.
 - Complexity questions: for a stack of \(n\) pancakes, the pancake number asks for the maximum number of prefix flips needed to sort any arrangement of \(n\) items. Exact values are only known for relatively small \(n\).
 - Variants: burnt pancake sorting adds an orientation (burnt side up or down) to each pancake, and flips reverse both order and orientation, leading to related but different bounds.
-
-## Brazil Nut Effect (Cereal Box Effect)
-- Domain: granular materials, physics, applied mathematics.
-- Setup: consider a mix of particles of different sizes (for example, a jar of mixed nuts) that is shaken or vibrated. The large particles tend to end up near the top, even though gravity pulls everything downward.
-- Rough mechanism: under vibration, smaller particles can fall through gaps and percolate downward, while larger particles are pushed upward by the motion of the surrounding smaller grains. Convection-like flows in the granular material can also transport larger particles toward the surface.
-- Key observation: the effect is counterintuitive because you might expect heavier, larger objects to sink, but in these systems the opposite often happens.
-- Relevance: the Brazil Nut Effect matters in bulk material handling, pharmaceuticals, food processing, and geophysics, where size segregation can change material properties and cause problems or be used on purpose for separation.
 
 ## Cheerios Effect
 - Domain: fluid mechanics, soft matter physics.

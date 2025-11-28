@@ -1,7 +1,7 @@
 ---
 title: Funny sounding math and computing concepts
 created: 2024-07-23
-updated: 2025-11-27
+updated: 2025-11-28
 tags: [catalog, concepts, math, computing]
 status: draft
 summary: A growing list of mathematically or computationally serious ideas that happen to have names that sound funny.
@@ -31,3 +31,17 @@ This note collects concepts from mathematics, computer science, and related fiel
 - Operation: a move is defined as choosing a position \(k\) and reversing the order of the top \(k\) items in the stack.
 - Complexity questions: for a stack of \(n\) pancakes, the pancake number asks for the maximum number of prefix flips needed to sort any arrangement of \(n\) items. Exact values are only known for relatively small \(n\).
 - Variants: burnt pancake sorting adds an orientation (burnt side up or down) to each pancake, and flips reverse both order and orientation, leading to related but different bounds.
+
+## Brazil Nut Effect (Cereal Box Effect)
+- Domain: granular materials, physics, applied mathematics.
+- Setup: consider a mix of particles of different sizes (for example, a jar of mixed nuts) that is shaken or vibrated. The large particles tend to end up near the top, even though gravity pulls everything downward.
+- Rough mechanism: under vibration, smaller particles can fall through gaps and percolate downward, while larger particles are pushed upward by the motion of the surrounding smaller grains. Convection-like flows in the granular material can also transport larger particles toward the surface.
+- Key observation: the effect is counterintuitive because you might expect heavier, larger objects to sink, but in these systems the opposite often happens.
+- Relevance: the Brazil Nut Effect matters in bulk material handling, pharmaceuticals, food processing, and geophysics, where size segregation can change material properties and cause problems or be used on purpose for separation.
+
+## Cheerios Effect
+- Domain: fluid mechanics, soft matter physics.
+- Setup: small floating objects on the surface of a liquid (for example, cereal pieces in milk) tend to clump together or move toward the container walls instead of staying uniformly spread out.
+- Rough mechanism: each object deforms the liquid surface slightly due to its weight and wetting properties, creating a meniscus. Surface tension and gravity cause neighboring deformations to interact, producing attractive or repulsive capillary forces between the floating objects.
+- Key observation: even weak surface-tension forces can rearrange light, floating particles over time, leading to clustering patterns that are easy to see in a bowl of cereal.
+- Relevance: the same capillary interactions matter for the behavior of bubbles, particles, and droplets at liquid interfaces in microfluidics, materials science, and biological systems.

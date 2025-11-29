@@ -19,6 +19,9 @@ This note collects favorite quotes related to identity.
 > "The literal meaning of life is whatever you’re doing that prevents you from killing yourself."
 > — Albert Camus (attributed; exact source disputed; the quote seems to be apocryphal, a memorable paraphrase summarizing Camus’s existential-absurd ideas rather than a direct citation, and this exact wording does not appear in any French edition of his work)
 
+> "God is the name of the blanket we throw over the mystery to give it shape."
+> — Barry Taylor (AC/DC's road manager)
+
 ## Work
 > "Hired many, fired few. Made money. Lost money. Learned to stop counting."
 > — Michael G. Scott (fictional character, From a deleted scene of The Office (US))

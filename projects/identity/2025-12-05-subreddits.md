@@ -1,797 +1,797 @@
 ---
 title: Subreddit collection
-created: 2025-12-05
-updated: 2025-12-05
+created: 2025- /r/12- /r/05
+updated: 2025- /r/12- /r/05
 tags: [identity, reddit]
 status: draft
-summary: This is the list of subreddits I am subscribed to as of 2025-12-05.
+summary: This is the list of subreddits I am subscribed to as of 2025- /r/12- /r/05.
 ---
 
-196
-2mediterranean4u
-2westerneurope4u
-35mm
-3Blue1Brown
-48lawsofpower
-4chan
-A24
-AbandonedPorn
-ableton
-abletonlive
-AbolishTheMonarchy
-ABoringDystopia
-AbruptChaos
-absolutelynotme_irl
-AbstractExpressionism
-accelerate
-AccidentalArousal
-AccidentalArtGallery
-AccidentalKubrick
-AccidentalRacism
-AccidentalRenaissance
-AccidentalWesAnderson
-AdamNeely
-Advice
-aegosexuals
-agedlikemilk
-AgentsOfAI
-agi
-Aging
-AI_Agents
-aiagents
-AICompanions
-aicuriosity
-AIDangers
-airealist
-AITAH
-AlkeszJofogas
-ambientmusic
-AmericaBad
-amiga
-AmIOverreacting
-Amish
-AmItheAsshole
-amIuglyBrutallyHonest
-Amsterdam
-analog
-AnalogCircleJerk
-AnalogCommunity
-AnalogNudes
-animalsdoingstuff
-anime_titties
-announcements
-ANormalDayInRussia
-Anthropic
-antimeme
-antiMLM
-antiwork
-anythingbutmetric
-aphextwin
-aphextwinPareidolia
-appiememes
-archlinux
-arduino
-AreTheStraightsOkay
-Art
-artificial
-ArtificialInteligence
-ArtMajorNudes
-ArtNude
-AsABlackMan
-AsbestosRemovalMemes
-ask
-AskElectronics
-askhungary
-AskMenOver30
-askphilosophy
-AskPhotography
-AskReddit
-AskRedditAfterDark
-askscience
-AskWomenOver30
-Assembly_language
-AstralProjection
-ATBGE
-atheism
-attentioneering
-audioengineering
-auroramusic
-autismmemes
-aws
-aww
-babiestrappedinknees
-badwomensanatomy
-balkans_irl
-BandCamp
-Bard
-BDP
-beatlescirclejerk
-BehavioralEconomics
-beholdthemasterrace
-beleggen
-bigdickproblems
-BipolarReddit
-BirdsArentReal
-Bitcoin
-BlackAndWhiteNudes
-BlackPeopleTwitter
-blessedimages
-blog
-blunderyears
-blursedimages
-BoneAppleTea
-books
-BookshelvesDetective
-boomerhentai
-boomershumor
-BoomerYiff
-BPDlovedones
-breakcore
-brutalism
-Buckethead
-budapest
-Bullshido
-BuyItForLife
-cablegore
-cableporn
-CamGirlProblems
-Camus
-cassettefuturism
-CasualConversation
-CasualUK
-catfaceplant
-cellular_automata
-centuryhomes
-chairsunderwater
-changemyview
-changeyourfont
-ChatGPT
-ChatGPTCoding
-ChatGPTJailbreak
-ChatGPTPro
-ChatGPTPromptGenius
-childfree
-chinalife
-ChoosingBeggars
-christianmemes
-CircuitBending
-cirkeltrek
-classical_circlejerk
-classicalmusic
-claude
-ClaudeAI
-ClaudeCode
-clevercomebacks
-Codeium
-cognitivescience
-collapse
-CombatFootage
-ComedyCemetery
-communism
-CommunismMemes
-Compilers
-Computer_Memories
-computerscience
-confessions
-confidentlyincorrect
-consciousness
-Conservative
-ConservativeMemes
-coolgithubprojects
-copypasta
-cordcutters
-Coronavirus
-corporatecringe
-CoupleMemes
-coworkerstories
-CozyPlaces
-CrappyDesign
-crappyoffbrands
-creativecoding
-creepy
-CreepyWikipedia
-cringe
-Cringetopia
-CryptoCurrency
-csakcsajok
-CSCareerHacking
-csMajors
-css
-CuratedTumblr
-cursedcomments
-cursor
-CursorAI
-cyanotypes
-Damnthatsinteresting
-dankchristianmemes
-dankmemes
-DarkArtwork
-darkpatterns
-Darkroom
-DataArt
-DataHoarder
-dataisbeautiful
-datingoverfifty
-Davie504
-DeadInternetTheory
-DeathPositive
-dechonkers
-DeepIntoYouTube
-DeepSeek
-DeepThoughts
-degoogle
-Demoscene
-Devilcorp
-devops
-digitalminimalism
-digitalnomad
-Dirtywave
-Dissociation
-DiWHY
-DIY
-diypedals
-diysynth
-DMT
-DnB
-dnbproduction
-Documentaries
-dogecoin
-Dogfree
-DogfreeHumor
-donathannalabkepek
-dontdeadopeninside
-dontyouknowwhoiam
-DORFic
-Dreams
-drugscirclejerk
-dumbphonecirclejerk
-dumbphones
-DunderMifflin
-dutch
-Dying
-EarthPorn
-ECE
-EDC
-edmprodcirclejerk
-edmproduction
-elonmusk
-embedded
-EmuDev
-enlightenment
-entitledparents
-ErgoMechKeyboards
-ethereum
-eupersonalfinance
-europe
-EuropeFIRE
-eurorack
-Existentialism
-Experiencers
-explainlikeimfive
-ExplainMyDownvotes
-ExplainTheJoke
-exredpill
-extramile
-ExtremeCarCrashes
-Exurb1a
-Eyebleach
-FacebookScience
-facepalm
-faedreams
-fakedisordercringe
-Feminism
-ffmpeg
-findareddit
-findomsupportgroup
-firefox
-flatearth
-flipperzero
-FloridaMan
-flowise
-food
-FostTalicska
-FoundPaper
-FoundPhotos
-fractals
-FragileWhiteRedditor
-freewill
-Frontend
-FrutigerMetro
-fuckalegriaart
-FuckMicrosoft
-FuckNestle
-FuckYouKaren
-FuckYourEamesLounge
-funny
-funnyvideos
-furry_irl
-Futurology
-gadgets
-gameenginedevs
-gaming
-gatekeeping
-GeminiAI
-genxsoftclub
-GenZ
-GermanHumor
-GetMotivated
-gifs
-GirlsWithHugePussies
-git
-github
-GithubCopilot
-glitch_art
-goodboomerhumor
-GoogleGeminiAI
-googlepoems
-googleReviews
-GoonCaves
-gorillaz
-gorillazcirclejerk
-graphic_design
-GraphicsProgramming
-greebles
-greentext
-grok
-Guitar
-guitarcirclejerk
-GuitarMemes
-guitarpedals
-guitarporn
-hacking
-hailhortler
-Hainbach
-handwritingporn
-Hiddenpcbeggs
-history
-hmmm
-holdmycatnip
-holofractal
-HolUp
-homeautomation
-homelab
-HomeLabPorn
-HPPD
-hu
-humblebrag
-hungary
-hungary_pszichologia
-hwstartups
-hyperphantasia
-hypotheticalsituation
-IAmA
-iamatotalpieceofshit
-ich_iel
-IdiotsFightingThings
-ik_ihe
-im14andthisisdeep
-impressionism
-ImTheMainCharacter
-imveryedgy
-india
-indieheads
-insaneparents
-insanepeoplefacebook
-Instagramreality
-instant_regret
-instantkarma
-interesting
-interestingasfuck
-internet_funeral
-InternetIsBeautiful
-iphone
-japannews
-japanpics
-japanresidents
-Jobboldal
-joblessCSMajors
-Jokes
-jungle
-justdependathings
-JusticeServed
-JustVidman
-Kafka
-katten
-KidsAreFuckingStupid
-KidsAreFuckingWeird
-kiszamolo
-Klussers
-Kyrgyzstan
-LangChain
-langflow
-LateStageCapitalism
-learndutch
-learnmachinelearning
-learnrust
-leetcode
-LegalAdviceEurope
-Leica
-leicacirclejerk
-leicaphotos
-lewronggeneration
-Life
-lifehacks
-LifeProTips
-LiminalSpace
-LinkedInLunatics
-linusrants
-LinusTechTips
-linux
-LinuxCirclejerk
-linuxmasterrace
-linuxmemes
-linuxsucks
-listeningspaces
-listentothis
-livecoding
-LLMDevs
-LocalLLaMA
-LocalLLM
-lolphp
-lonely
-lossedits
-lost
-lostmedia
-Lostwave
-lotrmemes
-LSD
-LucidDreaming
-Luthier
-Luxembourg
-M5Stack
-m8tracker
-macbookpro
-MachineLearning
-madlads
-maker
-malelivingspace
-MaliciousCompliance
-MandelaEffect
-mapgore
-marktplaatsoplichters
-masterhacker
-math
-maybemaybemaybe
-mcp
-MCPservers
-MDMA
-me_irl
-MechanicalKeyboards
-Meditation
-megalophobia
-meirl
-memes
-mensa
-menwritingwomen
-meshtastic
-metaldetecting
-microsaas
-midori
-mildlyinfuriating
-mildlyinteresting
-Mindgasm
-minilab
-Mirrorsforsale
-misophonia
-modular
-MoldyMemes
-MorbidReality
-movies
-MovingToNorthKorea
-MrYeasty
-MurderedByWords
-Music
-musicsuggestions
-musictheory
-MyBoyfriendIsAI
-n8n
-naturism
-Nederland
-nederlands
-NederlandseMemes
-NederlandsX
-neocities
-Netherlands
-NetherlandsHousing
-neuralnetworks
-neuro
-news
-nextjs
-Nicegirls
-Nietzsche
-NLSalaris
-node
-NoFap
-Nokia
-nonononoyes
-normiesofreddit
-NorthKoreaPics
-NorthKoreaTech
-nosleep
-nostalgia
-NoStupidQuestions
-NotHowGirlsWork
-notinteresting
-notlikeothergirls
-notliketheothergirls
-NotMyJob
-nottheonion
-NSFWIAMA
-NSFWMemes
-Nudeartphotography
-NudeOnFilm
-NudeSelfPortrait
-ObsoleteCooding
-oddlyspecific
-offset
-okbuddyretard
-olderbrothercore
-OldHandhelds
-OldSchoolCool
-olkb
-onejob
-onlyfansadvice
-OpenAI
-opengl
-openwrt
-opiates
-opticalillusions
-ossem
-OTMemes
-OutOfTheLoop
-Outsiderart
-pakistan
-papgrappen
-ParentsAreFuckingDumb
-PCB
-pcmasterrace
-pedalboards
-pedalgutshots
-Perfectfit
-Persecutionfetish
-personalfinance
-PeterExplainsTheJoke
-pettyrevenge
-PewdiepieSubmissions
-philipkDickheads
-philosophy
-PhilosophyMemes
-PhilosophyofScience
-Photobooks
-photography
-photoshopbattles
-pics
-PinholePhotography
-PixelArt
-PlotterArt
-Polaroid
-PolaroidNudes
-PoliticalCompassMemes
-polyphia
-popculturenetherlands
-porndata
-PornIsMisogyny
-PornMemes
-postprocessing
-PrequelMemes
-printingtiddy
-privacy
-proceduralgeneration
-ProgrammerHumor
-programming
-programmingcirclejerk
-programminghorror
-programminghumor
-programmingHungary
-programmingmemes
-PromptEngineering
-Psychonaut
-Psychosis
-PublicFreakout
-puns
-PurplePillDebate
-Pyongyang
-quantum
-queen
-Qwen_AI
-RadicalChristianity
-radiohead
-radioheadcirclejerk
-Rag
-RandomThoughts
-rangefinders
-rareinsults
-raspberry_pi
-raspberrypipico
-RationalPsychonaut
-react
-reactjs
-ReagentTesting
-recruitinghell
-Reincarnation
-relationship_advice
-rentnerzeigenaufdinge
-researchchemicals
-retrobattlestations
-retrocgi
-RiceCookerRecipes
-rimjob_steve
-RussiaUkraineWar2022
-rust
-rustjerk
-sadcats
-sadcringe
-Satisfyingasfuck
-schopenhauer
-science
-scriptedasiangifs
-self
-selfhosted
-semanticweb
-SequelMemes
-serialkillers
-sex
-shibari
-ShitAmericansSay
-ShitLiberalsSay
-Shitty_Car_Mods
-shittyaskelectronics
-ShittyLifeProTips
-Showerthoughts
-SideProject
-SimulationTheory
-singularity
-SipsTea
-sketchbooks
-sleeperbattlestations
-socialism
-Socialism_101
-socialskills
-sociology
-softwaregore
-soldering
-somnivexillology
-SP404
-space
-SpaceXMasterrace
-spirituality
-sports
-starterpacks
-Stims
-StonerPhilosophy
-StrawberryShan
-suggestmeabook
-SunoAI
-Super73
-sveltejs
-synthdiy
-synthesizercirclejerk
-synthesizers
-SzarFurik
-szopjatokle
-tailwindcss
-TalesfromtheDogHouse
-tanulommagam
-TargetedShirts
-TechEDC
-technicallythetruth
-teenageengineering
-teenagers
-telecaster
-teletext
-television
-terriblefacebookmemes
-thatHappened
-ThatLookedExpensive
-TheGirlSurvivalGuide
-thelibertinearts
-thenetherlands
-TheoryOfReddit
-thepassportbros
-theprimeagen
-therapyGPT
-therewasanattempt
-Therian
-TheRightCantMeme
-TheSmile
-theVibeCoding
-theydidthemath
-theyknew
-thinkpad
-ThinkPorn
-thisismylifenow
-thomastheplankengine
-threateningnotation
-tifu
-TIGHTPUSSY
-TIHI
-TinyPrepping
-todayilearned
-tokkiefeesboek
-tokkiemarktplaats
-TooAfraidToAsk
-totallynotrobots
-TouchDesigner
-transhumanism
-trashy
-trichromes
-trippyart
-tumblr
-TwinTowersInPhotos
-TwoXChromosomes
-typescript
-uglyduckling
-ukraine
-UkraineWarVideoReport
-umpc
-UnbelievableStuff
-UnethicalLifeProTips
-Unexpected
-unexpectedoffice
-UnitedNations
-unixsocks
-unpopularopinion
-unstable_diffusion
-UnusualArt
-UnusualInstruments
-UpliftingNews
-urbanexploration
-UrbanHell
-UtilityPouches
-uuni
-Vasectomy
-venetiansnares
-Vent
-Verilog
-vibecoding
-videos
-videosynthesis
-VintageApple
-vintagecgi
-VintageComputers
-VintageDigitalCameras
-vintagemobilephones
-VisionPro
-vscode
-VXJunkies
-waifuism
-wallstreetbets
-WatchPeopleDieInside
-WatchRedditDie
-WeAreTheMusicMakers
-web_design
-WebAssembly
-webdev
-webdevelopment
-webgpu
-weddingshaming
-Weird
-WeirdWebsites
-Welding
-Wellthatsucks
-WeWantPlates
-Whatcouldgowrong
-WhatIsThisPainting
-whatisthisthing
-WhereIsThisPlace
-WhitePeopleTwitter
-wholesomegreentext
-wigglegrams
-WikipediaVandalism
-wirklichgutefrage
-witchhouse
-wolfalice
-woodworking
-worldnews
-WritingPrompts
-Wrongrust
-wtfstockphotos
-ww3
-ww3memes
-y2kaesthetic
-ycombinator
-youngpeopleyoutube
-youseeingthisshit
-youtube
-YoutubeMusic
-ZZPNederland
+- /r/196
+- /r/2mediterranean4u
+- /r/2westerneurope4u
+- /r/35mm
+- /r/3Blue1Brown
+- /r/48lawsofpower
+- /r/4chan
+- /r/A24
+- /r/AbandonedPorn
+- /r/ableton
+- /r/abletonlive
+- /r/AbolishTheMonarchy
+- /r/ABoringDystopia
+- /r/AbruptChaos
+- /r/absolutelynotme_irl
+- /r/AbstractExpressionism
+- /r/accelerate
+- /r/AccidentalArousal
+- /r/AccidentalArtGallery
+- /r/AccidentalKubrick
+- /r/AccidentalRacism
+- /r/AccidentalRenaissance
+- /r/AccidentalWesAnderson
+- /r/AdamNeely
+- /r/Advice
+- /r/aegosexuals
+- /r/agedlikemilk
+- /r/AgentsOfAI
+- /r/agi
+- /r/Aging
+- /r/AI_Agents
+- /r/aiagents
+- /r/AICompanions
+- /r/aicuriosity
+- /r/AIDangers
+- /r/airealist
+- /r/AITAH
+- /r/AlkeszJofogas
+- /r/ambientmusic
+- /r/AmericaBad
+- /r/amiga
+- /r/AmIOverreacting
+- /r/Amish
+- /r/AmItheAsshole
+- /r/amIuglyBrutallyHonest
+- /r/Amsterdam
+- /r/analog
+- /r/AnalogCircleJerk
+- /r/AnalogCommunity
+- /r/AnalogNudes
+- /r/animalsdoingstuff
+- /r/anime_titties
+- /r/announcements
+- /r/ANormalDayInRussia
+- /r/Anthropic
+- /r/antimeme
+- /r/antiMLM
+- /r/antiwork
+- /r/anythingbutmetric
+- /r/aphextwin
+- /r/aphextwinPareidolia
+- /r/appiememes
+- /r/archlinux
+- /r/arduino
+- /r/AreTheStraightsOkay
+- /r/Art
+- /r/artificial
+- /r/ArtificialInteligence
+- /r/ArtMajorNudes
+- /r/ArtNude
+- /r/AsABlackMan
+- /r/AsbestosRemovalMemes
+- /r/ask
+- /r/AskElectronics
+- /r/askhungary
+- /r/AskMenOver30
+- /r/askphilosophy
+- /r/AskPhotography
+- /r/AskReddit
+- /r/AskRedditAfterDark
+- /r/askscience
+- /r/AskWomenOver30
+- /r/Assembly_language
+- /r/AstralProjection
+- /r/ATBGE
+- /r/atheism
+- /r/attentioneering
+- /r/audioengineering
+- /r/auroramusic
+- /r/autismmemes
+- /r/aws
+- /r/aww
+- /r/babiestrappedinknees
+- /r/badwomensanatomy
+- /r/balkans_irl
+- /r/BandCamp
+- /r/Bard
+- /r/BDP
+- /r/beatlescirclejerk
+- /r/BehavioralEconomics
+- /r/beholdthemasterrace
+- /r/beleggen
+- /r/bigdickproblems
+- /r/BipolarReddit
+- /r/BirdsArentReal
+- /r/Bitcoin
+- /r/BlackAndWhiteNudes
+- /r/BlackPeopleTwitter
+- /r/blessedimages
+- /r/blog
+- /r/blunderyears
+- /r/blursedimages
+- /r/BoneAppleTea
+- /r/books
+- /r/BookshelvesDetective
+- /r/boomerhentai
+- /r/boomershumor
+- /r/BoomerYiff
+- /r/BPDlovedones
+- /r/breakcore
+- /r/brutalism
+- /r/Buckethead
+- /r/budapest
+- /r/Bullshido
+- /r/BuyItForLife
+- /r/cablegore
+- /r/cableporn
+- /r/CamGirlProblems
+- /r/Camus
+- /r/cassettefuturism
+- /r/CasualConversation
+- /r/CasualUK
+- /r/catfaceplant
+- /r/cellular_automata
+- /r/centuryhomes
+- /r/chairsunderwater
+- /r/changemyview
+- /r/changeyourfont
+- /r/ChatGPT
+- /r/ChatGPTCoding
+- /r/ChatGPTJailbreak
+- /r/ChatGPTPro
+- /r/ChatGPTPromptGenius
+- /r/childfree
+- /r/chinalife
+- /r/ChoosingBeggars
+- /r/christianmemes
+- /r/CircuitBending
+- /r/cirkeltrek
+- /r/classical_circlejerk
+- /r/classicalmusic
+- /r/claude
+- /r/ClaudeAI
+- /r/ClaudeCode
+- /r/clevercomebacks
+- /r/Codeium
+- /r/cognitivescience
+- /r/collapse
+- /r/CombatFootage
+- /r/ComedyCemetery
+- /r/communism
+- /r/CommunismMemes
+- /r/Compilers
+- /r/Computer_Memories
+- /r/computerscience
+- /r/confessions
+- /r/confidentlyincorrect
+- /r/consciousness
+- /r/Conservative
+- /r/ConservativeMemes
+- /r/coolgithubprojects
+- /r/copypasta
+- /r/cordcutters
+- /r/Coronavirus
+- /r/corporatecringe
+- /r/CoupleMemes
+- /r/coworkerstories
+- /r/CozyPlaces
+- /r/CrappyDesign
+- /r/crappyoffbrands
+- /r/creativecoding
+- /r/creepy
+- /r/CreepyWikipedia
+- /r/cringe
+- /r/Cringetopia
+- /r/CryptoCurrency
+- /r/csakcsajok
+- /r/CSCareerHacking
+- /r/csMajors
+- /r/css
+- /r/CuratedTumblr
+- /r/cursedcomments
+- /r/cursor
+- /r/CursorAI
+- /r/cyanotypes
+- /r/Damnthatsinteresting
+- /r/dankchristianmemes
+- /r/dankmemes
+- /r/DarkArtwork
+- /r/darkpatterns
+- /r/Darkroom
+- /r/DataArt
+- /r/DataHoarder
+- /r/dataisbeautiful
+- /r/datingoverfifty
+- /r/Davie504
+- /r/DeadInternetTheory
+- /r/DeathPositive
+- /r/dechonkers
+- /r/DeepIntoYouTube
+- /r/DeepSeek
+- /r/DeepThoughts
+- /r/degoogle
+- /r/Demoscene
+- /r/Devilcorp
+- /r/devops
+- /r/digitalminimalism
+- /r/digitalnomad
+- /r/Dirtywave
+- /r/Dissociation
+- /r/DiWHY
+- /r/DIY
+- /r/diypedals
+- /r/diysynth
+- /r/DMT
+- /r/DnB
+- /r/dnbproduction
+- /r/Documentaries
+- /r/dogecoin
+- /r/Dogfree
+- /r/DogfreeHumor
+- /r/donathannalabkepek
+- /r/dontdeadopeninside
+- /r/dontyouknowwhoiam
+- /r/DORFic
+- /r/Dreams
+- /r/drugscirclejerk
+- /r/dumbphonecirclejerk
+- /r/dumbphones
+- /r/DunderMifflin
+- /r/dutch
+- /r/Dying
+- /r/EarthPorn
+- /r/ECE
+- /r/EDC
+- /r/edmprodcirclejerk
+- /r/edmproduction
+- /r/elonmusk
+- /r/embedded
+- /r/EmuDev
+- /r/enlightenment
+- /r/entitledparents
+- /r/ErgoMechKeyboards
+- /r/ethereum
+- /r/eupersonalfinance
+- /r/europe
+- /r/EuropeFIRE
+- /r/eurorack
+- /r/Existentialism
+- /r/Experiencers
+- /r/explainlikeimfive
+- /r/ExplainMyDownvotes
+- /r/ExplainTheJoke
+- /r/exredpill
+- /r/extramile
+- /r/ExtremeCarCrashes
+- /r/Exurb1a
+- /r/Eyebleach
+- /r/FacebookScience
+- /r/facepalm
+- /r/faedreams
+- /r/fakedisordercringe
+- /r/Feminism
+- /r/ffmpeg
+- /r/findareddit
+- /r/findomsupportgroup
+- /r/firefox
+- /r/flatearth
+- /r/flipperzero
+- /r/FloridaMan
+- /r/flowise
+- /r/food
+- /r/FostTalicska
+- /r/FoundPaper
+- /r/FoundPhotos
+- /r/fractals
+- /r/FragileWhiteRedditor
+- /r/freewill
+- /r/Frontend
+- /r/FrutigerMetro
+- /r/fuckalegriaart
+- /r/FuckMicrosoft
+- /r/FuckNestle
+- /r/FuckYouKaren
+- /r/FuckYourEamesLounge
+- /r/funny
+- /r/funnyvideos
+- /r/furry_irl
+- /r/Futurology
+- /r/gadgets
+- /r/gameenginedevs
+- /r/gaming
+- /r/gatekeeping
+- /r/GeminiAI
+- /r/genxsoftclub
+- /r/GenZ
+- /r/GermanHumor
+- /r/GetMotivated
+- /r/gifs
+- /r/GirlsWithHugePussies
+- /r/git
+- /r/github
+- /r/GithubCopilot
+- /r/glitch_art
+- /r/goodboomerhumor
+- /r/GoogleGeminiAI
+- /r/googlepoems
+- /r/googleReviews
+- /r/GoonCaves
+- /r/gorillaz
+- /r/gorillazcirclejerk
+- /r/graphic_design
+- /r/GraphicsProgramming
+- /r/greebles
+- /r/greentext
+- /r/grok
+- /r/Guitar
+- /r/guitarcirclejerk
+- /r/GuitarMemes
+- /r/guitarpedals
+- /r/guitarporn
+- /r/hacking
+- /r/hailhortler
+- /r/Hainbach
+- /r/handwritingporn
+- /r/Hiddenpcbeggs
+- /r/history
+- /r/hmmm
+- /r/holdmycatnip
+- /r/holofractal
+- /r/HolUp
+- /r/homeautomation
+- /r/homelab
+- /r/HomeLabPorn
+- /r/HPPD
+- /r/hu
+- /r/humblebrag
+- /r/hungary
+- /r/hungary_pszichologia
+- /r/hwstartups
+- /r/hyperphantasia
+- /r/hypotheticalsituation
+- /r/IAmA
+- /r/iamatotalpieceofshit
+- /r/ich_iel
+- /r/IdiotsFightingThings
+- /r/ik_ihe
+- /r/im14andthisisdeep
+- /r/impressionism
+- /r/ImTheMainCharacter
+- /r/imveryedgy
+- /r/india
+- /r/indieheads
+- /r/insaneparents
+- /r/insanepeoplefacebook
+- /r/Instagramreality
+- /r/instant_regret
+- /r/instantkarma
+- /r/interesting
+- /r/interestingasfuck
+- /r/internet_funeral
+- /r/InternetIsBeautiful
+- /r/iphone
+- /r/japannews
+- /r/japanpics
+- /r/japanresidents
+- /r/Jobboldal
+- /r/joblessCSMajors
+- /r/Jokes
+- /r/jungle
+- /r/justdependathings
+- /r/JusticeServed
+- /r/JustVidman
+- /r/Kafka
+- /r/katten
+- /r/KidsAreFuckingStupid
+- /r/KidsAreFuckingWeird
+- /r/kiszamolo
+- /r/Klussers
+- /r/Kyrgyzstan
+- /r/LangChain
+- /r/langflow
+- /r/LateStageCapitalism
+- /r/learndutch
+- /r/learnmachinelearning
+- /r/learnrust
+- /r/leetcode
+- /r/LegalAdviceEurope
+- /r/Leica
+- /r/leicacirclejerk
+- /r/leicaphotos
+- /r/lewronggeneration
+- /r/Life
+- /r/lifehacks
+- /r/LifeProTips
+- /r/LiminalSpace
+- /r/LinkedInLunatics
+- /r/linusrants
+- /r/LinusTechTips
+- /r/linux
+- /r/LinuxCirclejerk
+- /r/linuxmasterrace
+- /r/linuxmemes
+- /r/linuxsucks
+- /r/listeningspaces
+- /r/listentothis
+- /r/livecoding
+- /r/LLMDevs
+- /r/LocalLLaMA
+- /r/LocalLLM
+- /r/lolphp
+- /r/lonely
+- /r/lossedits
+- /r/lost
+- /r/lostmedia
+- /r/Lostwave
+- /r/lotrmemes
+- /r/LSD
+- /r/LucidDreaming
+- /r/Luthier
+- /r/Luxembourg
+- /r/M5Stack
+- /r/m8tracker
+- /r/macbookpro
+- /r/MachineLearning
+- /r/madlads
+- /r/maker
+- /r/malelivingspace
+- /r/MaliciousCompliance
+- /r/MandelaEffect
+- /r/mapgore
+- /r/marktplaatsoplichters
+- /r/masterhacker
+- /r/math
+- /r/maybemaybemaybe
+- /r/mcp
+- /r/MCPservers
+- /r/MDMA
+- /r/me_irl
+- /r/MechanicalKeyboards
+- /r/Meditation
+- /r/megalophobia
+- /r/meirl
+- /r/memes
+- /r/mensa
+- /r/menwritingwomen
+- /r/meshtastic
+- /r/metaldetecting
+- /r/microsaas
+- /r/midori
+- /r/mildlyinfuriating
+- /r/mildlyinteresting
+- /r/Mindgasm
+- /r/minilab
+- /r/Mirrorsforsale
+- /r/misophonia
+- /r/modular
+- /r/MoldyMemes
+- /r/MorbidReality
+- /r/movies
+- /r/MovingToNorthKorea
+- /r/MrYeasty
+- /r/MurderedByWords
+- /r/Music
+- /r/musicsuggestions
+- /r/musictheory
+- /r/MyBoyfriendIsAI
+- /r/n8n
+- /r/naturism
+- /r/Nederland
+- /r/nederlands
+- /r/NederlandseMemes
+- /r/NederlandsX
+- /r/neocities
+- /r/Netherlands
+- /r/NetherlandsHousing
+- /r/neuralnetworks
+- /r/neuro
+- /r/news
+- /r/nextjs
+- /r/Nicegirls
+- /r/Nietzsche
+- /r/NLSalaris
+- /r/node
+- /r/NoFap
+- /r/Nokia
+- /r/nonononoyes
+- /r/normiesofreddit
+- /r/NorthKoreaPics
+- /r/NorthKoreaTech
+- /r/nosleep
+- /r/nostalgia
+- /r/NoStupidQuestions
+- /r/NotHowGirlsWork
+- /r/notinteresting
+- /r/notlikeothergirls
+- /r/notliketheothergirls
+- /r/NotMyJob
+- /r/nottheonion
+- /r/NSFWIAMA
+- /r/NSFWMemes
+- /r/Nudeartphotography
+- /r/NudeOnFilm
+- /r/NudeSelfPortrait
+- /r/ObsoleteCooding
+- /r/oddlyspecific
+- /r/offset
+- /r/okbuddyretard
+- /r/olderbrothercore
+- /r/OldHandhelds
+- /r/OldSchoolCool
+- /r/olkb
+- /r/onejob
+- /r/onlyfansadvice
+- /r/OpenAI
+- /r/opengl
+- /r/openwrt
+- /r/opiates
+- /r/opticalillusions
+- /r/ossem
+- /r/OTMemes
+- /r/OutOfTheLoop
+- /r/Outsiderart
+- /r/pakistan
+- /r/papgrappen
+- /r/ParentsAreFuckingDumb
+- /r/PCB
+- /r/pcmasterrace
+- /r/pedalboards
+- /r/pedalgutshots
+- /r/Perfectfit
+- /r/Persecutionfetish
+- /r/personalfinance
+- /r/PeterExplainsTheJoke
+- /r/pettyrevenge
+- /r/PewdiepieSubmissions
+- /r/philipkDickheads
+- /r/philosophy
+- /r/PhilosophyMemes
+- /r/PhilosophyofScience
+- /r/Photobooks
+- /r/photography
+- /r/photoshopbattles
+- /r/pics
+- /r/PinholePhotography
+- /r/PixelArt
+- /r/PlotterArt
+- /r/Polaroid
+- /r/PolaroidNudes
+- /r/PoliticalCompassMemes
+- /r/polyphia
+- /r/popculturenetherlands
+- /r/porndata
+- /r/PornIsMisogyny
+- /r/PornMemes
+- /r/postprocessing
+- /r/PrequelMemes
+- /r/printingtiddy
+- /r/privacy
+- /r/proceduralgeneration
+- /r/ProgrammerHumor
+- /r/programming
+- /r/programmingcirclejerk
+- /r/programminghorror
+- /r/programminghumor
+- /r/programmingHungary
+- /r/programmingmemes
+- /r/PromptEngineering
+- /r/Psychonaut
+- /r/Psychosis
+- /r/PublicFreakout
+- /r/puns
+- /r/PurplePillDebate
+- /r/Pyongyang
+- /r/quantum
+- /r/queen
+- /r/Qwen_AI
+- /r/RadicalChristianity
+- /r/radiohead
+- /r/radioheadcirclejerk
+- /r/Rag
+- /r/RandomThoughts
+- /r/rangefinders
+- /r/rareinsults
+- /r/raspberry_pi
+- /r/raspberrypipico
+- /r/RationalPsychonaut
+- /r/react
+- /r/reactjs
+- /r/ReagentTesting
+- /r/recruitinghell
+- /r/Reincarnation
+- /r/relationship_advice
+- /r/rentnerzeigenaufdinge
+- /r/researchchemicals
+- /r/retrobattlestations
+- /r/retrocgi
+- /r/RiceCookerRecipes
+- /r/rimjob_steve
+- /r/RussiaUkraineWar2022
+- /r/rust
+- /r/rustjerk
+- /r/sadcats
+- /r/sadcringe
+- /r/Satisfyingasfuck
+- /r/schopenhauer
+- /r/science
+- /r/scriptedasiangifs
+- /r/self
+- /r/selfhosted
+- /r/semanticweb
+- /r/SequelMemes
+- /r/serialkillers
+- /r/sex
+- /r/shibari
+- /r/ShitAmericansSay
+- /r/ShitLiberalsSay
+- /r/Shitty_Car_Mods
+- /r/shittyaskelectronics
+- /r/ShittyLifeProTips
+- /r/Showerthoughts
+- /r/SideProject
+- /r/SimulationTheory
+- /r/singularity
+- /r/SipsTea
+- /r/sketchbooks
+- /r/sleeperbattlestations
+- /r/socialism
+- /r/Socialism_101
+- /r/socialskills
+- /r/sociology
+- /r/softwaregore
+- /r/soldering
+- /r/somnivexillology
+- /r/SP404
+- /r/space
+- /r/SpaceXMasterrace
+- /r/spirituality
+- /r/sports
+- /r/starterpacks
+- /r/Stims
+- /r/StonerPhilosophy
+- /r/StrawberryShan
+- /r/suggestmeabook
+- /r/SunoAI
+- /r/Super73
+- /r/sveltejs
+- /r/synthdiy
+- /r/synthesizercirclejerk
+- /r/synthesizers
+- /r/SzarFurik
+- /r/szopjatokle
+- /r/tailwindcss
+- /r/TalesfromtheDogHouse
+- /r/tanulommagam
+- /r/TargetedShirts
+- /r/TechEDC
+- /r/technicallythetruth
+- /r/teenageengineering
+- /r/teenagers
+- /r/telecaster
+- /r/teletext
+- /r/television
+- /r/terriblefacebookmemes
+- /r/thatHappened
+- /r/ThatLookedExpensive
+- /r/TheGirlSurvivalGuide
+- /r/thelibertinearts
+- /r/thenetherlands
+- /r/TheoryOfReddit
+- /r/thepassportbros
+- /r/theprimeagen
+- /r/therapyGPT
+- /r/therewasanattempt
+- /r/Therian
+- /r/TheRightCantMeme
+- /r/TheSmile
+- /r/theVibeCoding
+- /r/theydidthemath
+- /r/theyknew
+- /r/thinkpad
+- /r/ThinkPorn
+- /r/thisismylifenow
+- /r/thomastheplankengine
+- /r/threateningnotation
+- /r/tifu
+- /r/TIGHTPUSSY
+- /r/TIHI
+- /r/TinyPrepping
+- /r/todayilearned
+- /r/tokkiefeesboek
+- /r/tokkiemarktplaats
+- /r/TooAfraidToAsk
+- /r/totallynotrobots
+- /r/TouchDesigner
+- /r/transhumanism
+- /r/trashy
+- /r/trichromes
+- /r/trippyart
+- /r/tumblr
+- /r/TwinTowersInPhotos
+- /r/TwoXChromosomes
+- /r/typescript
+- /r/uglyduckling
+- /r/ukraine
+- /r/UkraineWarVideoReport
+- /r/umpc
+- /r/UnbelievableStuff
+- /r/UnethicalLifeProTips
+- /r/Unexpected
+- /r/unexpectedoffice
+- /r/UnitedNations
+- /r/unixsocks
+- /r/unpopularopinion
+- /r/unstable_diffusion
+- /r/UnusualArt
+- /r/UnusualInstruments
+- /r/UpliftingNews
+- /r/urbanexploration
+- /r/UrbanHell
+- /r/UtilityPouches
+- /r/uuni
+- /r/Vasectomy
+- /r/venetiansnares
+- /r/Vent
+- /r/Verilog
+- /r/vibecoding
+- /r/videos
+- /r/videosynthesis
+- /r/VintageApple
+- /r/vintagecgi
+- /r/VintageComputers
+- /r/VintageDigitalCameras
+- /r/vintagemobilephones
+- /r/VisionPro
+- /r/vscode
+- /r/VXJunkies
+- /r/waifuism
+- /r/wallstreetbets
+- /r/WatchPeopleDieInside
+- /r/WatchRedditDie
+- /r/WeAreTheMusicMakers
+- /r/web_design
+- /r/WebAssembly
+- /r/webdev
+- /r/webdevelopment
+- /r/webgpu
+- /r/weddingshaming
+- /r/Weird
+- /r/WeirdWebsites
+- /r/Welding
+- /r/Wellthatsucks
+- /r/WeWantPlates
+- /r/Whatcouldgowrong
+- /r/WhatIsThisPainting
+- /r/whatisthisthing
+- /r/WhereIsThisPlace
+- /r/WhitePeopleTwitter
+- /r/wholesomegreentext
+- /r/wigglegrams
+- /r/WikipediaVandalism
+- /r/wirklichgutefrage
+- /r/witchhouse
+- /r/wolfalice
+- /r/woodworking
+- /r/worldnews
+- /r/WritingPrompts
+- /r/Wrongrust
+- /r/wtfstockphotos
+- /r/ww3
+- /r/ww3memes
+- /r/y2kaesthetic
+- /r/ycombinator
+- /r/youngpeopleyoutube
+- /r/youseeingthisshit
+- /r/youtube
+- /r/YoutubeMusic
+- /r/ZZPNederland

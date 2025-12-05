@@ -1,10 +1,10 @@
 ---
 title: Subreddit collection
-created: 2025- /r/12- /r/05
-updated: 2025- /r/12- /r/05
+created: 2025-12-05
+updated: 2025-12-05
 tags: [identity, reddit]
 status: draft
-summary: This is the list of subreddits I am subscribed to as of 2025- /r/12- /r/05.
+summary: This is the list of subreddits I am subscribed to as of 2025-12-05.
 ---
 
 - /r/196

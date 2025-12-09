@@ -16,3 +16,5 @@ Personal note on why Nuxt feels unreliable for predictable JavaScript behavior.
 - The boundary between server and client is hidden. Data that those callbacks return is serialized and embedded directly into the HTML document, so any response that is not filtered or cleaned gets shipped to the browser verbatim.
 - Embedding that data leaks unnecessary or sensitive values, bloats the payload, and encourages unsafe patterns because the developer cannot see the boundary while writing the function.
 - These hidden transformations and unclear boundaries break the usual JavaScript mental model, confuse teams, and produce subtle bugs that are hard to anticipate or test.
+- The official Nuxt documentation never states plainly that these callbacks are lifted and executed elsewhere, leaving developers to discover the behavior only after encountering confusing bugs.
+- Related note: `projects/programming/2025-12-09-nextjs-over-nuxt.md` explains how Next.js keeps these boundaries explicit.

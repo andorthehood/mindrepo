@@ -1,7 +1,7 @@
 ---
 title: Username system based on "under" to "andor" wordplay
 created: 2025-08-04
-updated: 2025-11-26
+updated: 2025-12-14
 topic: unsorted
 tags: [usernames, branding, wordplay]
 status: draft
@@ -46,9 +46,17 @@ This note defines a repeatable method to generate usernames that play on the sim
 - `andorconsideration` (under consideration): professional networking, blog, personal site/portfolio.
 - `andortheradar` (under the radar): social media, microblogging, video.
 - `andortheweather` (under the weather): social media, microblogging, community/forums.
+- `andorthecounter` (under the counter): product reviews, maker projects, ecommerce/marketplace.
 - `andorthetable` (under the table): social media, short video, personal site/portfolio.
 - `pandoro`: social media, short video.
 - `andorwhelming` (underwhelming): video, blog, newsletter.
 - `andorgarment` (undergarment): ecommerce/marketplace.
 - `andorwear` (underwear): ecommerce/marketplace, social commerce.
 - `andorcurrent` (undercurrent): microblogging, social media, blog, chat/community, personal site/portfolio.
+- `andorexposed` (underexposed): photography, film, writing.
+- `andorpaid` (underpaid): career content, workplace humor, advocacy.
+- `andorground` (underground): music, zines, local scenes.
+- `andorpowered` (underpowered): hardware, performance tuning, gaming, maker content.
+- `andorrepresented` (underrepresented): community work, education, advocacy.
+- `andorthemicroscope` (under the microscope): research notes, analysis, code review.
+- `andorcooked` (undercooked): cooking, recipe sites/apps, food social media, short video.

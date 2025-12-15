@@ -1,7 +1,7 @@
 ---
 title: Username system based on "under" to "andor" wordplay
 created: 2025-08-04
-updated: 2025-12-14
+updated: 2025-12-15
 topic: unsorted
 tags: [usernames, branding, wordplay]
 status: draft
@@ -32,7 +32,8 @@ This note defines a repeatable method to generate usernames that play on the sim
 - Prefer usernames whose original expressions match the platform’s context (for example, technical phrases for developer platforms, reading-related phrases for book platforms).
 
 ## Inventory (current handles)
-- Instagram: `andortheinfluence` → from "under the influence". Playful; social fit.
+- Instagram: `andortheinfluence` → from "under the influence". Rationale: influence → influencer.
+- Untappd: `andortheinfluence` → from "under the influence". On-theme for beer check-ins; matches Instagram.
 - GitHub: `andorthehood` → from "under the hood". Technical fit.
 - Goodreads: `andorlineingeverything` → from "underlining everything". On-theme with reading.
 - Facebook: `andorthewrongimpression` → from "under the wrong impression". Clear; long; casual fit.
@@ -60,3 +61,5 @@ This note defines a repeatable method to generate usernames that play on the sim
 - `andorrepresented` (underrepresented): community work, education, advocacy.
 - `andorthemicroscope` (under the microscope): research notes, analysis, code review.
 - `andorcooked` (undercooked): cooking, recipe sites/apps, food social media, short video.
+- `andordog` (underdog): sports, gaming, community/forums, personal site/portfolio.
+- `andorbelly` (underbelly): nightlife, music, local scenes, photography, writing.

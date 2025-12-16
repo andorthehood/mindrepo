@@ -1,7 +1,7 @@
 ---
 title: Username system based on "under" to "andor" wordplay
 created: 2025-08-04
-updated: 2025-12-15
+updated: 2025-12-16
 topic: unsorted
 tags: [usernames, branding, wordplay]
 status: draft
@@ -41,6 +41,7 @@ This note defines a repeatable method to generate usernames that play on the sim
 - X (Twitter): `andorstatement` → from "understatement". Clear; concise; news and commentary fit.
 - Hugging Face: `andorfitting` → from "underfitting". Machine learning and model-sharing fit.
 - Google Developers: `andorconstruction` → from "under construction". Fits developer profiles, in-progress projects, and tooling work.
+- SoundCloud: `andortone` → from "undertone". Audio/music fit; simple and memorable.
 
 ### Future options with categories
 - `andorreview` (under review): code collaboration, Q&A, blog, newsletter, professional networking.

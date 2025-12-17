@@ -1,7 +1,7 @@
 ---
 title: Favorite quotes (identity)
 created: 2025-11-13
-updated: 2025-11-26
+updated: 2025-12-17
 tags: [identity, quotes]
 status: draft
 summary: Collection of favorite quotes related to identity; starts with a line attributed to Albert Camus.
@@ -36,3 +36,6 @@ This note collects favorite quotes related to identity.
 ## Technology
 > "Once, men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them."
 > — Frank Herbert, Dune (1965)
+
+> "Because we do not understand the brain very well we are constantly tempted to use the latest technology as a model for trying to understand it. In my childhood we were always assured that the brain was a telephone switchboard. ('What else could it be?') I was amused to see that Sherrington, the great British neuroscientist, thought that the brain worked like a telegraph system. Freud often compared the brain to hydraulic and electro-magnetic systems. Leibniz compared it to a mill, and I am told some of the ancient Greeks thought the brain functions like a catapult. At present, obviously, the metaphor is the digital computer."
+> — John R. Searle, Minds, Brains and Science, p. 44
